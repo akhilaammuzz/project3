@@ -1,0 +1,629 @@
+
+.inbox1{
+    text-align: center;
+    margin: 80px 20px 50px 0px;
+    padding: 30px 30px 50px 30px;
+    /* margin-top: 100px;
+    padding: 100px; */
+}
+.mu{
+    font-weight: bold !important;
+    letter-spacing: 2px;
+}
+.rt{
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: gray;
+    padding-right: 30px;
+    display: inline-block;
+    margin-top: 6px;
+}
+.ca{
+    color:rgb(168, 105, 9)  ;
+    
+}
+ .head1{
+    font-size: 100px;
+    color: white;
+
+ }
+.inbox1{
+    min-height: 300px;
+    text-align: center;
+}
+.lin{
+    text-decoration: none;
+    color: rgb(249, 247, 247);
+    background-color:rgb(168, 105, 9) ;
+    width: 30px;
+    height: 5px;
+    /* padding: 5px 10px 5px 10px; */
+    padding: 8px 25px;
+    font-weight: Georgia;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.lin:hover{
+    color: rgb(253, 254, 254);
+}
+.l1{
+    margin-top: 40px;
+} 
+.p1{
+    margin:20px 0px 30px 0px ;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+     word-spacing: 3px; 
+} 
+.sec2{
+    background-image: url(im1.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgba(24, 23, 23, 0.634);
+
+}
+.sec1{
+    background-color: #141414;
+}
+.ic{
+  height: 100px;
+  width: 100px;
+}
+
+.rr{
+ font-family:Edwardian Script ITC;
+}
+
+.line1{
+    background-color: orange;
+    height: 1px;
+    width:  30% ;
+    margin-top: 20px;
+}
+.line2{
+    background-color: orange;
+    height: 1px;
+    width:50%;
+    margin-top: 20px;
+}
+.sec3{
+    /* background-color: #141414; */
+    background-image: url(im1.jpg);
+
+}
+.opacity1{
+    background-color: rgba(0, 0, 0, 0.882);
+}
+
+.head2{
+    color: aliceblue;
+    font-family: Harlow Solid;
+    font-size: 30px;
+}
+.inbox3{
+    text-align: center;
+    margin-top: 50px;
+}
+.inbox4{
+    text-align: center;
+    text-align: center;
+    padding: 30px 40px;
+    margin-top: 50px;
+}
+.inbox5{
+    text-align: center;
+    margin-top: 50px;
+}
+.inbox6{
+    text-align: center;
+    margin: 40px 40px 40px 40px ;
+    padding:40px ;
+
+
+}
+.head3{
+   font-size: 65px;
+   margin-top: 70px;
+   color: aliceblue;
+   padding: 1px;
+   letter-spacing: 3px;
+
+}
+.p1{
+    font-size: 20px;
+    color: aliceblue;
+    margin: 20px 0px;
+
+
+}
+.sec4{
+    /* background-color: aqua; */
+    background-image: url(re.avif);
+    background-attachment: fixed;
+     min-height: auto;
+     background-size: cover;
+}
+/* .ico{
+    font-size: 30px;
+    margin: 0px 5px;
+    margin-top: -25px;
+    display: inline-block;
+
+} */
+.lin2{
+    text-decoration: none;
+    color: rgb(249, 247, 247);
+    background-color:rgb(168, 105, 9) ;
+    padding: 5px 25px;
+    font-weight: Georgia;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.lin2:hover{
+    color: rgb(253, 254, 254);
+}
+.l2{
+    margin: 30px;
+
+}
+.opacity{
+    background-color: rgba(0, 0, 0, 0.107);
+}
+.im{
+    margin-top: -20px;
+}
+.line5{
+    height: 1.5px;
+    width: 55%;
+    background-color: rgb(241, 245, 247);
+
+}
+
+.sec5{
+     /* background-color: aqua; */
+     background-image: url(catering.avif);
+     background-size: cover;
+     background-attachment: fixed;
+}
+.inbox7{
+    text-align: center;
+    margin: 40px 50px;
+    padding: 50px 0px;
+
+}
+.head4{
+    color: white;
+    margin: 10px 20px;
+    letter-spacing: 4px;
+    font-size: 55px;
+
+}
+.p2{
+    font-weight: bold;
+    color: white;
+    padding: 20px 20px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.vi{
+    text-decoration: none;
+    color: rgb(249, 247, 247);
+    background-color:rgb(168, 105, 9) ;
+    padding: 6px 25px;
+    font-weight: Georgia;
+    border-radius: 3px;
+    font-weight: bold;
+
+}
+.vi:hover{
+    color: rgb(253, 254, 254);
+}
+.vi1{
+    margin: 30px 20px;
+}
+.opacity3{
+    background-color: rgba(0, 0, 0, 0.358);
+}
+.food{
+    height: 100px;
+    width: 100px;
+    margin: 10px 20px;
+}
+.sec6{
+    background-color: aliceblue;
+    background-image: url(cook\ \(1\).jpg);
+    background-size: cover;
+}
+.inbox8{
+    text-align: center;
+    margin: 50px 5px;
+}
+.inbox9{
+    text-align: center;
+    padding: 35px 40px;
+    margin-top: 50px;
+}
+.inbox10{
+    text-align: center;
+    margin: 50px 5px;
+    padding-bottom:5px;
+}
+.head5{
+    color: rgb(0, 0, 0);
+    font-family: Harlow Solid;
+    font-size: 30px;
+}
+.line3{
+    background-color: orange;
+    height: 1px;
+    width:  30% ;
+    margin-top: 20px;
+}
+.line4{
+    background-color: orange;
+    height: 1px;
+    width:50%;
+    margin-top: 20px;
+}
+
+
+.trans1{
+    background-color: rgba(255, 255, 255, 0.588);
+
+}
+.inbox11{
+    text-align: center;
+
+}
+.line6{
+    height: 2.5px;
+    width: 55%;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+   background-color: aliceblue;
+
+
+}
+.sh{
+    text-decoration: none;
+    color: rgb(249, 247, 247);
+    background-color:rgb(168, 105, 9) ;
+    padding: 4px 25px;
+    font-weight: Georgia;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.sec7{
+    background-image: url(BOTTLE21.jpg);
+
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.inbox11{
+    margin: 50px 0px 50px 0px;
+
+}
+.head6{
+    font-size: 60px;
+    color: aliceblue;
+    letter-spacing: 2px;
+
+}
+.head7{
+    font-size: 60px;
+    font-style: italic;
+    color: aliceblue;
+    letter-spacing: 3px;
+
+
+}
+.p3{
+    margin:30px 0px 0px 20px;
+    padding-bottom:40px ;
+    font-size: 18px;
+    font-weight: bold;
+    color: aliceblue;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+
+}
+.opacity4{
+    background-color: rgba(0, 0, 0, 0.525);
+}
+.sh{
+    display: inline-block;
+    margin: 30px;
+}
+.sec8{
+    background-image: url(al.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.inbox12{
+    text-align: center;
+    min-height: 300px;
+    /* margin: 40px; */
+    margin: 40px 0px 50px 0px;
+    padding:20px 0px ;
+
+}
+.head8{
+    margin-top: 10px ;
+    /* padding-top:40px ; */
+    letter-spacing: 3px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 65px;
+    color: white;
+    /* font-weight: bold; */
+}
+.pl{
+    font-weight: bold;
+    font-size: 19px;
+    color: white;
+    letter-spacing: 3px;
+    margin: 10px 20px;
+    padding: 5px 0px  50px 0px ;
+
+}
+.fi{
+    text-decoration: none;
+    background-color: rgb(168, 105, 9) ;
+    padding: 8px 15px;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    /* margin-bottom: 15px; */
+
+}
+.r{
+    margin-top: 50px;
+    height: 100px;
+    background-size: 90px;
+}
+.opacity5{
+    background-color: rgba(0, 0, 0, 0.525);
+}
+.sec9{
+    background-image: url(selfiii1.jpg);
+    /* background-attachment: fixed; */
+    background-size: cover;
+}
+.line7{
+    background-color: whitesmoke;
+    height: 1px;
+    width:  30% ;
+    margin-top: 20px;
+
+}
+.line8{
+    background-color: whitesmoke;
+    height: 1px;
+    width:  50% ;
+    margin-top: 20px;
+
+}
+.inbox13{
+    /* margin: 50px 0px; */
+    /* padding: 30px 20px; */
+    text-align: center;
+    margin-top: 60px;
+}
+.inbox14{
+    /* margin: 50px 0px;
+    padding: 30px 0px; */
+    text-align: center;
+    padding: 30px 40px;
+    margin-top: 50px;
+}
+.inbox15{
+    /* margin: 50px 0px;
+    padding: 30px 20px; */
+    text-align: center;
+    margin-top: 60px;
+
+}
+.pl1{
+    font-family: Harlow Solid;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 0px;
+}
+.jo{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-align: right;
+}
+.trans{
+    background-color:#bb8d52d5;
+
+}
+.sec10{
+    background-image: url(cookk001.jpg);
+    background-size: 100% auto;
+    /* background-attachment: fixed; */
+    background-repeat: repeat-y;
+    background-position: center;
+    
+}
+.inbox16{
+    text-align: center;
+    margin: 60px 20px;
+    padding: 40px 0px;
+
+}
+.head9{
+    font-size: 62px;
+    letter-spacing: 3px;
+    margin-top:50px;
+    color: white;
+    font-weight: bold;
+}
+.opacity6{
+    background-color: rgba(0, 0, 0, 0.402);
+}
+
+.line9{
+    height: 2.5px;
+    width: 55%;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+    background-color: aliceblue;
+
+
+}
+.pl2{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 30px 0px;
+    padding: 10px 0px  20px 0px;
+    letter-spacing: 1px;
+    color: white;
+}
+.le{
+    text-decoration: none;
+    background-color: rgb(168, 105, 9) ;
+    padding: 8px 15px;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    /* margin: 30px 0px; */
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.inbox17{
+    background-image: url(RR.png);
+    height: 260px;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+     /* background-color: gray; */
+     background-size: 100px;
+     margin-top: 20px;
+
+}
+.lp{
+    padding-top: 90px; 
+    font-size: 30px;
+    color: white;
+    font-family: Harlow Solid;
+    /* margin-top: 80px; */
+}
+.sec11{
+    background-color: rgb(66, 63, 63);
+}
+
+.inbox18{
+    /* text-align: center; */
+    margin-top: 30px;
+}
+.lk{
+    padding-left: 24px;
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+
+}
+.icoo{
+    font-size: 20px;
+    color: rgb(168, 105, 9) ;
+}
+.ai{
+    color: rgb(131, 131, 131);
+    font-weight: bold;
+}
+.inbox19{
+    margin-top: 30px;
+}
+.inbox20{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.ph{
+    color: white;
+    margin-left: 70px;
+    font-size: 20px;
+
+}
+.nu{
+    margin-bottom: 30px;
+    color: rgb(123, 123, 123);
+    font-size: 20px;
+}
+.ct{
+    text-decoration: none;
+    background-color:  rgb(168, 105, 9);
+    padding: 7px 15px;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.lk1{
+    /* padding-left: 24px; */
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+
+}
+.lk2{
+    /* padding-left: 24px; */
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+    margin-right: 20px;
+
+}
+.sec12{
+    background-color: rgb(4, 4, 4);
+}
+.inbox21{
+    text-align: center;
+}
+.sm{
+    padding-top: 25px;
+    color: gray;
+    font-size: 18px;
+}
+.inbox22{
+    text-align: center;
+
+}
+.fb{
+    color: rgb(168, 105, 9) ;
+    font-size: 25px;
+    padding: 10px;
+
+}
+.fb1{
+    color: rgb(168, 105, 9) ;
+    font-size: 25px;
+    padding: 10px;
+
+}
+.fb2{
+    color: rgb(168, 105, 9) ;
+    font-size: 25px;
+    padding: 10px;
+
+}
+.fb3{
+    color: rgb(168, 105, 9) ;
+    font-size: 25px;
+    padding: 10px;
+    display: inline-block;
+    margin-top: 10px;
+
+}
+
